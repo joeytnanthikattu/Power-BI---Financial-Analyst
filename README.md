@@ -1,7 +1,7 @@
 # Retail Sales & Gross Margin Analysis
 
 ## 📊 Live Interactive Dashboard
-🔗 **[Click Here to View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2MyMzJgtMWMyMy00ZmQ0LWJkNTgtODJmN2IwOTY3YjM0IiwidCI6IjNhMji4ODM1LTdiMjA2MTdiMjA2MTdmyzkwNiIsImMiO2N9)**
+🔗 **[Click Here to View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzgyN2MyZjgtMWMyMy00ZmQ0LWJkNTgtODJmN2IwOTY3YjM0IiwidCI6IjNhMjI4ZGZiLWM2NDctNDRjYi04ODM1LTdiMjA2MTdmYzkwNiIsImMiOjN9)**
 
 ---
 
